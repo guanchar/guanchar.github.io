@@ -121,6 +121,10 @@ section.resume-section .resume-item .resume-date {
   padding-bottom: 1rem;
 }
 
+.img-profile {
+  max-width: 20rem;
+}
+
 .img-profile-small {
   max-width: 4rem;
   padding-right: 1rem;
