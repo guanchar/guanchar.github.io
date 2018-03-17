@@ -116,7 +116,6 @@ section.resume-section .resume-item .resume-date {
 
 .resume-img {
   max-width: 15rem;
-  min-width: 10rem;
   padding-right: 1rem;
   padding-bottom: 1rem;
 }
@@ -136,7 +135,7 @@ section.resume-section .resume-item .resume-date {
     min-height: 100vh;
   }
   section.resume-section .resume-item .resume-date {
-    min-width: 18rem;
+    min-width: 12rem;
   }
 }
 
