@@ -116,6 +116,7 @@ section.resume-section .resume-item .resume-date {
 
 .resume-img {
   max-width: 15rem;
+  min-width: 15rem;
   padding-right: 1rem;
   padding-bottom: 1rem;
 }
